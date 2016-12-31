@@ -1,0 +1,42 @@
+body {
+  padding: 20px;
+}
+.box {
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 300px;
+  border: 2px solid #ddd;
+  height: 480px;
+  font-family: sans-serif;
+  box-shadow: 1px 1px 1px 1px #ddd;
+}
+
+img {
+  width: 300px;
+  padding-bottom: 5px;
+}
+
+.box2 {
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 275px;
+  border: 2px solid #ddd;
+  font-size: 12px;
+}
+
+.nobullet {
+  list-style-type: none;
+  padding-left: 1px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+span{
+  font-weight: bold;
+}
